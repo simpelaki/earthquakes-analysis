@@ -18,3 +18,5 @@ In the first part this project, a visualization for the earthquake data was crea
 ![2-BasicMap](https://github.com/simpelaki/earthquakes-analysis/assets/117967087/b7581179-0bd2-4940-828e-7ae5d83e4579)
 
 ![6-Time_Keeps_On_Ticking](https://github.com/simpelaki/earthquakes-analysis/assets/117967087/31e1987f-cb06-424f-920a-56540d728502)
+
+----------------------------------------------------------------------------------------

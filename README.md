@@ -10,3 +10,7 @@ In the first part this project, a visualization for the earthquake data was crea
 * Leaflet
 * Javascript
 * HTML
+![5-Advanced](https://github.com/simpelaki/earthquakes-analysis/assets/117967087/5e9245e2-5399-4032-adbe-89a25a22e0d3)
+![Heat](https://github.com/simpelaki/earthquakes-analysis/assets/117967087/8414d980-936d-47c9-b82e-aacf2d0a7a39)
+![2-BasicMap](https://github.com/simpelaki/earthquakes-analysis/assets/117967087/b7581179-0bd2-4940-828e-7ae5d83e4579)
+![6-Time_Keeps_On_Ticking](https://github.com/simpelaki/earthquakes-analysis/assets/117967087/31e1987f-cb06-424f-920a-56540d728502)
